@@ -1,1 +1,1 @@
-this is just a place to put al my python scripts
+this is just a place to put all my python scripts
